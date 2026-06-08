@@ -1,0 +1,30 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "New Bosses (B)",
+		"description": "Add new bosses to Bedrock by El Oso Arcade",
+		"uuid": "4a400bfb-60c0-9a21-a9db-ab16f174d0a2",
+		"version": [2, 1, 0],
+		"min_engine_version": [1, 16, 0]
+	},
+	"metadata": {
+		"authors": ["El Oso Arcade"],
+		"license": "CC BY-NC-ND 4.0 - New Bosses MCBE Add-on",
+		"product_type": "addon",
+		"url": "https://github.com/elosoarcade/new-bosses"
+	},
+	"modules": [
+		{
+			"description": "Behavior",
+			"version": [2, 1, 0],
+			"uuid": "cda75b35-3f65-51fe-1582-7af5f58dcfc8",
+			"type": "data"
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "e3947a73-685c-cf10-30e8-92ccf1e182db",
+			"version": [2, 1, 0]
+		}
+	]
+}

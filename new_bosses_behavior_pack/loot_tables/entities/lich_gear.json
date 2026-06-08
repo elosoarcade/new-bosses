@@ -1,0 +1,14 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "eoa:amethyst_halberd_f",
+          "weight": 1
+        }
+      ]
+    }
+  ]
+}

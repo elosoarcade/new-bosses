@@ -1,0 +1,31 @@
+{
+  "format_version": "1.20.10",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "eoa:royal_gold_sword"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "X",
+      "#"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:stick"
+      },
+      "X": {
+        "item": "eoa:royal_golden_horn"
+      }
+    },
+	"unlock": [
+        {
+          "item": "eoa:royal_golden_horn"
+        }
+    ],
+    "result": {
+      "item": "eoa:royal_gold_sword"
+    }
+  }
+}

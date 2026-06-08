@@ -1,0 +1,17 @@
+entity.eoa:king_ravager.name=King Ravager
+mob.eoa:king_ravager.name=King Ravager
+item.spawn_egg.entity.eoa:king_ravager.name=Spawn King Ravager
+entity.eoa:insane_golem.name=Insane Golem
+mob.eoa:insane_golem.name=Insane Golem
+item.spawn_egg.entity.eoa:insane_golem.name=Spawn Insane Golem
+entity.eoa:netherite_curse.name=Netherite Curse
+mob.eoa:netherite_curse.name=Netherite Curse
+item.spawn_egg.entity.eoa:netherite_curse.name=Spawn Netherite Curse
+entity.eoa:lich.name=Lich
+mob.eoa:lich.name=Lich
+item.spawn_egg.entity.eoa:lich.name=Spawn Lich
+item.eoa:royal_gold_sword=Royal Gold Sword
+item.eoa:royal_golden_horn=Royal Golden Horn
+item.eoa:amethyst_halberd=Amethyst Halberd
+item.eoa:big_netherite_sword=Big Netherite Sword
+tile.eoa:shining_gold_block.name=Shining Gold Block

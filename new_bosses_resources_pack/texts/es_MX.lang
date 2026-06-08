@@ -1,0 +1,17 @@
+entity.eoa:king_ravager.name=Rey devastador
+mob.eoa:king_ravager.name=Rey devastador
+item.spawn_egg.entity.eoa:king_ravager.name=Huevo generador de rey devastador
+entity.eoa:insane_golem.name=Golem demente
+mob.eoa:insane_golem.name=Golem demente
+item.spawn_egg.entity.eoa:insane_golem.name=Huevo generador de golem demente
+entity.eoa:netherite_curse.name=Maldición de inframundita
+mob.eoa:netherite_curse.name=Maldición de inframundita
+item.spawn_egg.entity.eoa:netherite_curse.name=Huevo generador de maldición de inframundita
+entity.eoa:lich.name=Lich
+mob.eoa:lich.name=Lich
+item.spawn_egg.entity.eoa:lich.name=Huevo generador de Lich
+item.eoa:royal_gold_sword=Espada de oro imperial
+item.eoa:royal_golden_horn=Cuerno de oro imperial
+item.eoa:amethyst_halberd=Alabarda de amatista
+item.eoa:big_netherite_sword=Espadota de inframundita
+tile.eoa:shining_gold_block.name=Bloque de oro imperial

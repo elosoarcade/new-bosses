@@ -1,0 +1,67 @@
+{
+	"entity_sounds": {
+		"entities": {
+			"eoa:king_ravager": {
+				"events": {
+					"ambient": "mob.ravager.ambient",
+					"ambient.in.raid": {
+						"pitch": [0.4, 0.6],
+						"sound": "mob.ravager.ambient",
+						"volume": 3
+					},
+					"attack.strong": "mob.ravager.bite",
+					"celebrate": "mob.ravager.celebrate",
+					"death": "mob.ravager.death",
+					"hurt": "mob.ravager.hurt",
+					"roar": "mob.ravager.roar",
+					"step": "mob.ravager.step",
+					"stun": "mob.ravager.stun"
+				},
+				"pitch": [0.4, 0.6],
+				"volume": 1
+			},
+			"eoa:insane_golem": {
+				"events": {
+					"ambient": "mob.irongolem.say",
+					"death": "mob.irongolem.death",
+					"hurt": "mob.irongolem.hurt",
+					"step": {
+						"pitch": 1,
+						"sound": "mob.irongolem.step",
+						"volume": 0.45
+					}
+				},
+				"pitch": [0.4, 0,5],
+				"volume": 1
+			},
+			"eoa:netherite_curse": {
+				"events": {
+					"ambient": "mob.irongolem.say",
+					"death": "mob.irongolem.death",
+					"hurt": "mob.irongolem.hurt",
+					"step": {
+						"pitch": 1,
+						"sound": "mob.irongolem.step",
+						"volume": 0.45
+					}
+				},
+				"pitch": [0.3, 0,4],
+				"volume": 1
+			},			
+			"eoa:litch": {
+				"events": {
+					"ambient": "mob.husk.say",
+					"death": "mob.husk.death",
+					"hurt": "mob.husk.hurt",
+					"step": {
+						"pitch": 1,
+						"sound": "mob.husk.step",
+						"volume": 0.45
+					}
+				},
+				"pitch": [0.3, 0,5],
+				"volume": 1
+			},			
+		}
+	}
+}

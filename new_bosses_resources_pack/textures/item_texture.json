@@ -1,0 +1,22 @@
+{
+	"texture_data": {
+		"amethyst_halberd": {
+			"textures": "textures/items/amethyst_halberd.png"
+		},
+		"amethyst_halberd_f": {
+			"textures": "textures/items/amethyst_halberd.png"
+		},
+		"big_netherite_sword": {
+			"textures": "textures/items/big_netherite_sword.png"
+		},
+		"big_netherite_sword_f": {
+			"textures": "textures/items/big_netherite_sword.png"
+		},
+		"royal_gold_sword": {
+			"textures": "textures/items/royal_gold_sword.png"
+		},
+		"royal_golden_horn": {
+			"textures": "textures/items/royal_golden_horn.png"
+		}
+	}
+}

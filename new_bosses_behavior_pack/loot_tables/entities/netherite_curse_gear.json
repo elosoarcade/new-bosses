@@ -1,0 +1,14 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "eoa:big_netherite_sword_f",
+          "weight": 1
+        }
+      ]
+    }
+  ]
+}

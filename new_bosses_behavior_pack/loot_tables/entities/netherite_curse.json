@@ -1,0 +1,74 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "item",
+					"name": "eoa:shining_gold_block",
+					"weight": 100,
+					"functions": [
+						{
+							"function": "set_count",
+							"count": 1
+						}
+					]
+				}
+			]
+		},
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "item",
+					"name": "emerald",
+					"weight": 1,
+					"functions": [
+						{
+							"function": "set_count",
+							"count": {
+								"min": 32,
+								"max": 64
+							}
+						}
+					]
+				}
+			]
+		},
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "item",
+					"name": "eoa:big_netherite_sword",
+					"weight": 1,
+					"functions": [
+						{
+							"function": "set_count",
+							"count": 1
+						}
+					]
+				}
+			]
+		},
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "item",
+					"name": "diamond",
+					"weight": 1,
+					"functions": [
+						{
+							"function": "set_count",
+							"count": {
+								"min": 16,
+								"max": 32
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}

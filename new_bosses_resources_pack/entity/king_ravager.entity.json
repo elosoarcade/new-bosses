@@ -1,0 +1,39 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "eoa:king_ravager",
+			"textures": {
+				"default": "textures/entity/king_ravager"
+			},
+			"materials": {
+				"default": "ravager"
+			},
+			"geometry": {
+				"default": "geometry.king_ravager"
+			},
+			"render_controllers": ["controller.render.default"],
+			"spawn_egg": {
+				"base_color": "#fcd51f",
+				"overlay_color": "#777777"
+			},
+			"animations": {
+				"walk": "animation.king_ravager.walk",
+				"look_at_target": "animation.common.look_at_target",
+				"idle_mouth": "animation.king_ravager.idle_mouth",
+				"stunned": "animation.king_ravager.stunned",
+				"roaring": "animation.king_ravager.roaring",
+				"move": "controller.animation.ravager.move",
+				"head": "controller.animation.ravager.head_movement",
+				"biting": "animation.king_ravager.biting"
+			},
+			"scripts": {
+				"pre_animation": ["variable.roar_length = 1.0;", "variable.bite_anim_duration = 0.75f;", "variable.bite_neck_length = 10;"],
+				"animate": ["move", "head"]
+			},
+			"particle_effects": {
+				"stun_particles": "minecraft:stunned_emitter"
+			}
+		}
+	}
+}
