@@ -4,7 +4,7 @@
 		"name": "New Bosses (R)",
 		"description": "Add new bosses to Bedrock by El Oso Arcade",
 		"uuid": "e3947a73-685c-cf10-30e8-92ccf1e182db",
-		"version": [2, 1, 0],
+		"version": [3, 0, 0],
 		"min_engine_version": [1, 16, 0]
 	},
 	"metadata": {
@@ -18,7 +18,7 @@
 			"description": "New Bosses",
 			"type": "resources",
 			"uuid": "b60858c6-3137-b661-8d66-3b0096a9d9cf",
-			"version": [2, 1, 0]
+			"version": [3, 0, 0]
 		}
 	]
 }

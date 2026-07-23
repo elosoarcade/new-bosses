@@ -81,7 +81,7 @@
             "name":"entity.eoa:insane_golem.name"
          },
          "minecraft:knockback_resistance":{
-            "value":1.0
+            "value":0.5
          },
          "minecraft:fire_immune":{
             
@@ -99,7 +99,7 @@
             ]
          },
          "minecraft:scale":{
-            "value":2.0
+            "value":2.5
          },
          "minecraft:equip_item":{
             "excluded_items":[
@@ -155,7 +155,7 @@
             "breathes_water":true
          },
          "minecraft:attack":{
-            "damage":24
+            "damage":12
          },
          "minecraft:loot":{
             "table":"loot_tables/entities/insane_golem.json"

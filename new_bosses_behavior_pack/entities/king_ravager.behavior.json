@@ -159,7 +159,7 @@
             ]
          },
          "minecraft:attack":{
-            "damage":24
+            "damage":12
          },
          "minecraft:breathable":{
             "suffocate_time":0,
@@ -205,7 +205,7 @@
             "table":"loot_tables/entities/king_ravager.json"
          },
          "minecraft:knockback_resistance":{
-            "value":1.0
+            "value":0.5
          },
          "minecraft:movement":{
             "value":0

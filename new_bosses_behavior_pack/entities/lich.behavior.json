@@ -81,15 +81,12 @@
             "name":"entity.eoa:lich.name"
          },
          "minecraft:knockback_resistance":{
-            "value":1.0
+            "value":0.2
          },
          "minecraft:fire_immune":{
             
          },
          "minecraft:is_hidden_when_invisible":{
-            
-         },
-         "minecraft:nameable":{
             
          },
          "minecraft:type_family":{
@@ -99,7 +96,7 @@
             ]
          },
          "minecraft:scale":{
-            "value":1.5
+            "value":1.7
          },
          "minecraft:equip_item":{
             "excluded_items":[
@@ -155,7 +152,7 @@
             "breathes_water":true
          },
          "minecraft:attack":{
-            "damage":12
+            "damage":9
          },
          "minecraft:loot":{
             "table":"loot_tables/entities/lich.json"
